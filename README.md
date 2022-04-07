@@ -2,6 +2,8 @@
 
 ## Workflow
 
+https://i.imgur.com/3tilHXT.png
+
 first of all, go to the course bin
 
 if it turns out that the web reg has timed out
